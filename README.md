@@ -5,7 +5,6 @@ Lei Lei, Ning Zhao
 
 Shanghai International Studies University
 
-leileicn@126.com; ningzhao_nz@126.com
 
 
 ## Abstract
@@ -105,7 +104,6 @@ Xu, B. (2019). NLP Chinese Corpus: Large scale Chinese corpus for NLP (Version 1
 
 上海外国语大学
 
-leileicn@126.com; ningzhao_nz@126.com
 
 ##  一、简介
 阿尔法现代汉语语料库（The Alpha Modern Chinese Corpus，简称AMC语料库）是一个由“干净”的现代汉语句子组成的语料库。所谓 “干净”的句子，是指该语料库中的句子会尽可能少地包含数字、非汉字字母或特殊符号。
