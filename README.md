@@ -11,6 +11,9 @@ Shanghai International Studies University
 
 In this short piece, we introduce our newly developed corpus entitled The Alpha Modern Chinese Corpus (the AMC corpus). The AMC corpus contains texts of four genres, i.e., nonfictions, fictions, scientific articles, and conversations. The corpus is a balanced collection of texts spanning diverse genres, making it a valuable resource for studying modern Chinese. Its applications are wide-ranging, including linguistic research, Chinese language teaching, and Natural Language Processing. The corpus is available at: https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus/
 
+**Download the data at: https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus/releases
+**
+
 ## 1 Description
 
 The Alpha Modern Chinese Corpus (The AMC Corpus) is a corpus that contains a collection of “clean” modern Chinese sentences. By “clean” sentences, we mean the corpus is comprised of sentences with minimal numbers, non-Chinese alphabets, or special tokens.
