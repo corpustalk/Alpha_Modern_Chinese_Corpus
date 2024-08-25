@@ -41,6 +41,8 @@ We provide four versions of the AMC corpus of different sizes, i.e., mini, base,
 
 |Mini|Base|Standard|Full|
 
+| --- | --- |--- |--- |
+
 |Conversations|100K|500K|1M|2M|
 
 |Fictions|100K|500K|1M|2M|
