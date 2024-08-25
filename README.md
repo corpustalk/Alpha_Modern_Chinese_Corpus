@@ -32,22 +32,52 @@ To summarize, the AMC corpus is a balanced collection of texts spanning diverse 
 
 ## 2 Corpus size 
 
-We provide four versions of the AMC corpus of different sizes, i.e., mini, base, standard, and full. The number of sentences that each version of the AMC corpus contains is described in Table 1. 
 
-Table 1 Number of sentences that each version of AMC contains
+We provide four versions of the AMC corpus of different sizes, i.e., mini, base, standard, and full. The corpus size of each version of the AMC corpus is described in Tables 1-3. 
 
 
-Versions	Nonfictions	Fictions	Scientific articles	Conversations
+**Table 1 Corpus size: number of sentences**
+	Mini	Base	Standard	Full
+ 
+Conversations	100K	500K	1M	2M
 
-Mini	100K	100K	100K	100K
+Fictions	100K	500K	1M	2M
 
-Base	500K	500K	200K	500K
+Nonfictions	100K	500K	1M	2M
 
-Standard	1M	1M	500K	1M
+Scientific articles	100K	200K	500K	800K
 
-Full	2M	2M	800K	2M
+Total	400K	1.7M	3.5M	6.8M
 
-Total	3.6M	3.6M	1.6M	3.6M
+**Table 2 Corpus size: number of characters**
+
+	Mini	Base	Standard	Full
+ 
+Conversations	1,589,381	7,950,279	15,919,381	31,799,521
+
+Fictions	4,156,324	20,758,034	41,558,260	83,150,103
+
+Nonfictions	7,143,168	35,758,578	71,532,808	143,123,338
+
+Scientific articles	6,690,418	13,375,121	15,919,381	53,472,147
+
+Total	19,579,291	77,842,012	144,929,830	311,545,109
+
+
+**Table 3 Corpus size: number of words**
+
+	Mini	Base	Standard	Full
+ 
+Conversations	1,082,226	5,411,351	10,833,340	21,634,055
+
+Fictions	2,807,601	14,015,800	28,062,666	56,148,142
+
+Nonfictions	4,338,197	21,721,033	43,450,322	86,926,486
+
+Scientific articles	3,732,809	7,463,840	18,665,244	29,830,970
+
+Total	11,960,833	48,612,024	101,011,572	194,539,653
+
 
 
 ## 3 Development of the corpus
