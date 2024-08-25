@@ -39,9 +39,9 @@ We provide four versions of the AMC corpus of different sizes, i.e., mini, base,
 **Table 1 Corpus size: number of sentences**
 
 
-|Mini|Base|Standard|Full|
+| ---|Mini|Base|Standard|Full|
 
-| --- | --- |--- |--- |
+| --- | --- |--- |--- | ---|
 
 |Conversations|100K|500K|1M|2M|
 
