@@ -11,8 +11,7 @@ Shanghai International Studies University
 
 In this short piece, we introduce our newly developed corpus entitled The Alpha Modern Chinese Corpus (the AMC corpus). The AMC corpus contains texts of four genres, i.e., nonfictions, fictions, scientific articles, and conversations. The corpus is a balanced collection of texts spanning diverse genres, making it a valuable resource for studying modern Chinese. Its applications are wide-ranging, including linguistic research, Chinese language teaching, and Natural Language Processing. The corpus is available at: https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus/
 
-**Download the data at: https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus/releases
-**
+**Download the data at: https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus/releases**
 
 ## 1 Description
 
@@ -145,6 +144,8 @@ Xu, B. (2019). NLP Chinese Corpus: Large scale Chinese corpus for NLP (Version 1
 阿尔法现代汉语语料库（The Alpha Modern Chinese Corpus，简称AMC语料库）是一个由“干净”的现代汉语句子组成的语料库。所谓 “干净”的句子，是指该语料库中的句子会尽可能少地包含数字、非汉字字母或特殊符号。
 
 AMC语料库中的数据集主要来源于公开的在线数据，这些数据受版权保护。为了避免版权问题，我们有意仅提供句子而不是完整文本。这使得我们能够发布完整的语料库用于研究和教育之用。需要强调的是，AMC语料库仅限于研究和教育用途，禁止用于任何商业目的。
+
+**数据下载链接: https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus/releases**
 
 AMC语料库涵盖四种类型的文本，即非虚构文本、小说、学术论文和对话。
 
