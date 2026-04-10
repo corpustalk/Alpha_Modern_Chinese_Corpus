@@ -58,7 +58,7 @@ We provide four versions of the AMC corpus of different sizes, i.e., mini, base,
 **Table 3 Corpus size: number of words**
 
 
-	| Type | Mini | Base | Standard | Full |
+| Type | Mini | Base | Standard | Full |
 | :--- | ---: | ---: | ---: | ---: |
 | Conversations | 1,082,226 | 5,411,351 | 10,833,340 | 21,634,055 |
 | Fictions | 2,807,601 | 14,015,800 | 28,062,666 | 56,148,142 |
